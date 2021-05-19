@@ -1,2 +1,2 @@
 Hi,
-This is my first time using of git
+This is my first time using of git.
