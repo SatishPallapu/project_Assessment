@@ -1,2 +1,7 @@
+
 Hi,
 This is my first time using of git.
+
+
+How is your learning going on?
+hope you are doing good!
